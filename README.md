@@ -15,7 +15,7 @@
     - Script-Ware
     - Oxygen U
     - JJSploit
-    - etc.
+    - etc..
     
     Desenvolvido por: Xesteer Team
     Discord: https://discord.gg/7QjAc6y4ch
