@@ -16,7 +16,7 @@ Compatível com TODOS os executores:
 - Script-Ware
 - Oxygen U
 - JJSploit
-- etc.
+- etc..
 
 ## Links
 
