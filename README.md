@@ -1,24 +1,4 @@
---[[
-    xesteer-hub V2
-    Blox Fruits Script
-    
-    Compatible with:
-    - Delta
-    - Codex
-    - Fluxus
-    - And other executors
-    
-    INSTRUÇÕES DE USO:
-    1. Copie todo este script
-    2. Abra seu executor (Delta, Codex, Fluxus, etc.)
-    3. Cole o script no executor
-    4. Execute o script dentro do jogo Blox Fruits
-    
-    NOTA: Este script NÃO funcionará se executado fora do Roblox.
-    É necessário usar dentro do jogo com um executor compatível.
-    
-    https://discord.gg/7QjAc6y4ch
-]]
+
 
 -- Versão compacta para compartilhamento fácil (use este código para compartilhar)
 -- loadstring(game:HttpGet("https://raw.githubusercontent.com/xesteer-hub/blox-fruits/main/xesteer.lua"))()
