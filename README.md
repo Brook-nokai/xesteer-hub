@@ -3,7 +3,7 @@
     Blox Fruits Script
     
     Inspirado em HoHo Hub e W Azure
-    Versão: 1.0
+    Versão: 1.00
 ]]
 
 -- Configurações iniciais
